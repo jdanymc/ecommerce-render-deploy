@@ -14,7 +14,6 @@ tags:
 - name: "user"
   description: "Todas las rutas para usuarios"
 schemes:
-- "http"
 - "https"
 paths:
   /product:
