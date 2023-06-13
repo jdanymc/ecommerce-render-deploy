@@ -15,6 +15,7 @@ tags:
   description: "Todas las rutas para usuarios"
 schemes:
 - "http"
+- "https"
 paths:
   /product:
     get:
