@@ -9,7 +9,7 @@
       "email": "pepito@gmail.com"
     }
   },
-  "host": "https://ecommerce-render-deploy-code-gfct.onrender.com/",
+  "host": "ecommerce-render-deploy-code-gfct.onrender.com",
   "basePath": "/",
   "tags": [
     {
